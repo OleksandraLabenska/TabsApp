@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <string name="aplication">Aplication</string>
+    <string name="title">Paste the URL link below</string>
+    <string name="URL1">URL1</string>
+    <string name="URL2">URL2</string>
+    <string name="button1">Send URL to Page №1</string>
+    <string name="button2">Send URL to Page №2</string>
+    <string name="message">Please, enter the URL</string>
+    <string name="messagePage1"> Go to the Page №1</string>
+    <string name="messagePage2"> Go to the Page №2</string>
+    <string name="close">Close</string>
+</resources>

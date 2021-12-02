@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tabs</string>
+    <string name="aplication">Aplicación</string>
+    <string name="title">Introduce el enlace URL</string>
+    <string name="URL1">URL1</string>
+    <string name="URL2">URL2</string>
+    <string name="button1"> Enviar el URL a la Página №1</string>
+    <string name="button2"> Enviar el URL a la Página №2</string>
+    <string name="message">Por favor, introduce la URL </string>
+    <string name="messagePage1"> Pase a la página №1</string>
+    <string name="messagePage2"> Pase a la página №2</string>
+    <string name="close">Cerrar</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainpage_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="monospace"
+        android:text="@string/title"
+        android:textColor="#311b46"
+        android:textSize="25sp" />
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_marginVertical="30dp"
+        android:src="@drawable/search" />
+
+    <EditText
+        android:id="@+id/urlET1"
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:hint="@string/URL1"
+        android:text="https://tenor.com" />
+
+    <Button
+        android:id="@+id/urlButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/button1" />
+
+    <EditText
+        android:id="@+id/urlET2"
+        android:layout_width="210dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:hint="@string/URL2"
+        android:text="https://stackoverflow.com" />
+
+
+    <Button
+        android:id="@+id/urlButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="@string/button2" />
+
+
+</LinearLayout>
